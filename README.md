@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello ! My name is Antoine Carlu, i'm a recent french web developer, in learning with Simplon.co
+
+# - I'm currently learning :
+  - Front-end (JS/JQuery/PHP/..)
+  - Back-end (PHP)
 
 <!--
 **6Yoru6/6Yoru6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
