@@ -12,9 +12,9 @@
 
 
 <h1 align="center">Hello ! My name is Antoine Carlu,</h1>
-<h3 align="center">i'm a recent french web developer, in learning with Simplon.co 😄</h3>
+<h2 align="center">I'm a recent french web developer, in learning with Simplon.co 😄</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinecarlu&label=Profile%20views&color=e64be6&style=flat-square" alt="antoinecarlu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinecarlu&label=Profile%20views&color=e64be6&style=flat-square" alt="antoinecarlu"/> </p>
 
 - 🌱 I'm currently learning : **JS/Node.js & PHP/PhpMyAdmin**
 
@@ -22,9 +22,9 @@
 
 - 📄 Check out my CV : [antoinecarlu.github.io/CV-Web/](antoinecarlu.github.io/CV-Web/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My LinkedIn profile : </h3>
 <p align="left">
-<a href="https://linkedin.com/in/antoine carlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine carlu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antoine-carlu-703904269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine-carlu-linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
