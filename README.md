@@ -5,7 +5,7 @@
 
 - 📫 Contact me : **carluantoinepro@gmail.com**
 
-- 📄 Check out my CV : [antoinecarlu.github.io/CV-Web/](antoinecarlu.github.io/CV-Web/)
+- 📄 Check out my CV : <a href="https://antoinecarlu.github.io/CV-Web/" target="_blank">antoinecarlu.github.io/CV-Web/</a>
 
 - ⚡ Fun fact : I love cats 🐱
 
