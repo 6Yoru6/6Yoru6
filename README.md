@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinecarlu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="antoinecarlu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinecarlu&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=e64be6&locale=en" alt="antoinecarlu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoinecarlu&theme=dark" alt="antoinecarlu" /></p>
