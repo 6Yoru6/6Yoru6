@@ -1,8 +1,8 @@
 ## Hello ! My name is Antoine Carlu, i'm a recent french web developer, in learning with Simplon.co 😄
 
 ### 🌱 I'm currently learning :
-  - JS/Jquery
-  - PHP
+  - JS/Node.js
+  - PHP/PhpMyAdmin
 
 ### 📫 Contact me :
   - carluantoinepro@gmail.com
