@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 ! My name is Antoine Carlu,</h1>
 <h2 align="center">I'm a recent french web developer, in learning with Simplon.co 😄</h2>
 
-- 🌱 I'm currently learning : **React / Nextjs & Node.js**
+- 🌱 I'm currently learning : **React / Next.js & Node.js**
 
 - 📫 Contact me : **carluantoinepro@gmail.com**
 
