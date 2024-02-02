@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 ! My name is Antoine Carlu,</h1>
-<h2 align="center">I'm a recent french web developer, in learning with Simplon.co 😄</h2>
+<h2 align="center">I'm a french web developer, in searching of work. If you are interested by my profile, don't hesitate and contact me 😄</h2>
 
 - 🌱 I'm currently learning : **React / Next.js & Node.js**
 
