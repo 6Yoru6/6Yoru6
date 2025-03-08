@@ -7,6 +7,8 @@
 
 - 📄 Mon CV en ligne : <a href="https://antoinecarlu.github.io/CV-Web/" target="_blank">antoinecarlu.github.io/CV-Web/</a>
 
+- 🌐 Mon Portfolio en ligne : <a href="https://antoinecarlu.com/" target="_blank">antoinecarlu.com</a>
+
 - ⚡ Fun fact : J'adore les animaux 🐱
 
 <h4 align="left">Mon profil LinkedIn : </h4>
